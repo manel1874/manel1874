@@ -1,6 +1,6 @@
 ### Hi there, I'm  Manel 👋
-![](https://visitor-badge.glitch.me/badge?page_id=lewiuberg.lewiuberg)
-<a href="https://github.com/lewiuberg/stargazers"><img src="https://img.shields.io/github/stars/lewiuberg" alt="Stars Badge"/></a>
+![](https://visitor-badge.glitch.me/badge?page_id=manel1874.lewiuberg)
+<a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
 
 
 [<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
