@@ -1,10 +1,10 @@
-### Hi there, I'm  Manel 👋
+### Hi there, I'm  Manel 👋 [<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=manel1874.lewiuberg)
 <a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
 -->
 
-[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
+
 
 
 **I'm a husband, father of two and an InfoSec PhD student at [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.**
