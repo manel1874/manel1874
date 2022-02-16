@@ -18,7 +18,7 @@
 -
 
 ### 📕 Projects 
--
+- [QuGenome](http://qugenome.av.it.pt/): 
 
 ### 📕 Research articles 
 
