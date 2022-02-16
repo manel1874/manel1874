@@ -4,8 +4,8 @@
 <a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
 -->
 
-[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-santos-66b411102/)
+[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-santos-66b411102/)
+
 
 **I'm a husband, father of two and an InfoSec PhD student at [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.**
 
