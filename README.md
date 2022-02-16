@@ -1,6 +1,5 @@
 ### Hi there, I'm  Manel 👋 
-[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
-[<img align="left" alt="lewiuberg | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
+
 
 
 <!--
@@ -61,6 +60,11 @@
 ![](https://img.shields.io/badge/Typesetting-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=3572A5)
 <br />
 <br />
+
+
+### Connect with me
+[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
+[<img align="left" alt="lewiuberg | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
 
 <!--
 **manel1874/manel1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
