@@ -23,7 +23,7 @@
 ### Tools & Languages:
 
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
