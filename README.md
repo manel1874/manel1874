@@ -1,6 +1,6 @@
 ### Hi there, I'm  Manel 👋 
 [<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
-[<img align="left" alt="lewiuberg | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][https://medium.com/@manuel.batalha.santos]
+[<img align="left" alt="lewiuberg | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
 
 
 <!--
