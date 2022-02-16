@@ -5,23 +5,29 @@
 -->
 
 
-
-
 **I'm a husband, father of two and an InfoSec PhD student at [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.**
 
-- 🔭 I’m currently working on the applications of quantum protocols to Secure Multiparty Computation.
+- 🔭 I’m currently working on the applications of quantum cryptographic protocols to Secure Multiparty Computation.
 
 
 ### 📕 Blog posts
-
+- 
 
 
 ### 📕 YouTube videos 
+-
 
 ### 📕 Projects 
+-
+
+### 📕 Research articles 
 
 
 ### Tools & Languages:
+
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=3572A5)
+
 
 ![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
