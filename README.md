@@ -22,7 +22,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), 2020.
 
 ### 🗞️ Blog posts
-- Privacy-Preserving Computational Biology using Yao protocol
+- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
 
 
 ### 📺 YouTube videos 
