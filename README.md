@@ -8,17 +8,9 @@
 -->
 
 
-**I'm a husband, father of two and an InfoSec PhD student at [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.**
+I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student at [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.
 
-- 🔭 I’m currently working on the applications of quantum cryptographic protocols to Secure Multiparty Computation.
-
-
-### 📕 Blog posts
-- 
-
-
-### 📕 YouTube videos 
--
+- 🔭 I’m currently working on the applications of **quantum cryptographic protocols to Secure Multiparty Computation**.
 
 ### 📕 Projects 
 - [QuGenome](http://qugenome.av.it.pt/): This project is focused on the implementation of a secure multiparty computation service supported by quantum technologies to compute Phylogenetic Trees over the Madrid OpenQKD network.
@@ -28,6 +20,19 @@
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), 2021.
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), 2021.
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), 2020.
+
+### 📕 Blog posts
+- 
+
+
+### 📕 YouTube videos 
+- [QuGenome App demo](https://youtu.be/gPAPgZYbd8E)
+- [QuGenome System description](https://youtu.be/k_W8_pxNQm8)
+- [Genome Search implementation with Yao Protocol](https://youtu.be/-AYUiQtT6fs)
+
+### My choir recordings
+- [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0)
+- [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8)
 
 
 ### Tools & Languages:
@@ -68,6 +73,7 @@
 ### Connect with me
 [<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
+[<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://medium.com/@manuel.batalha.santos)
 
 <!--
 **manel1874/manel1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
