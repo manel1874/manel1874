@@ -53,7 +53,8 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 
 ![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Kears-informational?style=flat&logo=keras&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3572A5)
