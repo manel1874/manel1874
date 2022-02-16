@@ -1,4 +1,8 @@
-### Hi there, I'm  Manel 👋 [<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
+### Hi there, I'm  Manel 👋 
+[<img align="left" alt="lewiuberg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
+[<img align="left" alt="lewiuberg | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][https://medium.com/@manuel.batalha.santos]
+
+
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=manel1874.lewiuberg)
 <a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
@@ -18,7 +22,8 @@
 -
 
 ### 📕 Projects 
-- [QuGenome](http://qugenome.av.it.pt/): 
+- [QuGenome](http://qugenome.av.it.pt/): This project is focused on the implementation of a secure multiparty computation service supported by quantum technologies to compute Phylogenetic Trees over the Madrid OpenQKD network.
+- [QuantumMining](http://quantummining.av.it.pt/): This project is focused on the design and implementation of a Quantum Oblivious Transfer protocol over optical fibers and integration with a privacy preserving Genome data mining service.
 
 ### 📕 Research articles 
 
