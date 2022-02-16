@@ -12,30 +12,30 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 
 - 🔭 I’m currently working on the applications of **quantum cryptographic protocols to Secure Multiparty Computation**.
 
-### 📕 Projects 
+### 🤓 Projects 
 - [QuGenome](http://qugenome.av.it.pt/): This project is focused on the implementation of a secure multiparty computation service supported by quantum technologies to compute Phylogenetic Trees over the Madrid OpenQKD network.
 - [QuantumMining](http://quantummining.av.it.pt/): This project is focused on the design and implementation of a Quantum Oblivious Transfer protocol over optical fibers and integration with a privacy preserving Genome data mining service.
 
-### 📕 Research articles 
+### 🎓 Research articles 
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), 2021.
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), 2021.
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), 2020.
 
-### 📕 Blog posts
+### 🗞️ Blog posts
 - 
 
 
-### 📕 YouTube videos 
+### 📺 YouTube videos 
 - [QuGenome App demo](https://youtu.be/gPAPgZYbd8E)
 - [QuGenome System description](https://youtu.be/k_W8_pxNQm8)
 - [Genome Search implementation with Yao Protocol](https://youtu.be/-AYUiQtT6fs)
 
-### My choir recordings
+### 🎤 My choir recordings
 - [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0)
 - [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8)
 
 
-### Tools & Languages:
+### 🛠 Tools & Languages:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=3572A5)
@@ -70,22 +70,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 <br />
 
 
-### Connect with me
+### 📫 Connect with me
 [<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCd3JdDjcW0vgHNdFVehQN_w)
-
-<!--
-**manel1874/manel1874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
