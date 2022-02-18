@@ -15,7 +15,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 ### 🤓 Projects 
 - [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a secure multiparty computation service supported by quantum technologies to compute Phylogenetic Trees over the Madrid OpenQKD network.
 - [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a Quantum Oblivious Transfer protocol over optical fibers and integration with a privacy preserving Genome data mining service.
-- -[QUESTS](http://quests.av.it.pt/): is focused on the development of an SMC service for vehicular ad hoc networks (VANETs).
+- [QUESTS](http://quests.av.it.pt/): is focused on the development of an SMC service for vehicular ad hoc networks (VANETs).
 
 ### 🎓 Research articles 
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), 2021.
