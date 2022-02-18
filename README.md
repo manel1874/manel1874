@@ -34,7 +34,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 ### 🎤 My choir recordings
 - [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0)
 - [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8)
-- Check our channel [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ)
+- Check out our channel [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ)
 
 
 ### 🛠 Tools & Languages:
