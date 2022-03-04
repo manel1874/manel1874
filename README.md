@@ -77,3 +77,6 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 [<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCd3JdDjcW0vgHNdFVehQN_w)
+
+
+![](https://komarev.com/ghpvc/?username=manel1874&color=3572A5)
