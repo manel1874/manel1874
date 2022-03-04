@@ -1,5 +1,6 @@
 ### Hi there, I'm  Manel 👋 
 
+![](https://komarev.com/ghpvc/?username=manel1874&color=3572A5)
 
 
 <!--
