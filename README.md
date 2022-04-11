@@ -17,10 +17,10 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 - [QUESTS](http://quests.av.it.pt/): is focused on the development of an SMC service for vehicular ad hoc networks (VANETs).
 
 ### 🎓 Research articles 
-- Private Computation of Phylogenetic Trees based on Quantum Technologies, accepted for publication, 2022.
-- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), 2021.
-- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), 2021.
-- [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), 2020.
+- [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022.
+- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021.
+- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021.
+- [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 
 ### 🗞️ Blog posts
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
