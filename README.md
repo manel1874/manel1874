@@ -22,6 +22,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021.
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021.
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
+- [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 
 ### 🗞️ Blog posts
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
