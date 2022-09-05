@@ -7,18 +7,26 @@
 -->
 
 
-I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student at the [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.
+I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD student at the [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.
 
 - 🔭 I’m currently working on the applications of **quantum cryptographic protocols to Secure Multiparty Computation**.
 
 ### 🤓 Projects 
-- [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a secure multiparty computation service supported by quantum technologies to compute phylogenetic trees over the Madrid OpenQKD network.
+
+#### Running
+
+- [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us)
+- [QUESTS](http://quests.av.it.pt/): is focused on the development of a Secure Multiparty Computation service for vehicular ad hoc networks (VANETs).
+
+#### Closed
+
+- [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a Secure Multiparty Computation service supported by quantum technologies to compute phylogenetic trees over the Madrid OpenQKD network. Check the App demo [here](https://youtu.be/gPAPgZYbd8E).
 - [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a quantum oblivious transfer protocol over optical fibres and integration with a privacy preserving genome data mining service.
-- [QUESTS](http://quests.av.it.pt/): is focused on the development of an SMC service for vehicular ad hoc networks (VANETs).
+- [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
 ### 🎓 Research articles 
-- [Quantum oblivious transfer: a short review](https://arxiv.org/abs/2206.03313), arxiv, 2022
-- [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022.
+- [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022
+- [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/).
 - [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022.
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021.
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021.
@@ -30,6 +38,7 @@ I'm a husband, father of two, (amateur) tenor singer and an InfoSec PhD student 
 
 
 ### 📺 YouTube videos 
+- [QOLE poster presentation at QCrypt2022](https://www.youtube.com/watch?v=yQliNZnRgpU&t=2s)
 - [QuGenome App demo](https://youtu.be/gPAPgZYbd8E)
 - [QuGenome System description](https://youtu.be/k_W8_pxNQm8)
 - [Genome Search implementation with Yao Protocol](https://youtu.be/-AYUiQtT6fs)
