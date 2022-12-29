@@ -28,9 +28,9 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [PECO: methods to enhance the privacy of DECO protocol](https://github.com/manel1874/PECO/blob/main/paper/PECO.pdf), 2022
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/).
-- [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022.
-- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021.
-- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021.
+- [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022. [Code](https://github.com/manel1874/private-phylogenetic-analysis)
+- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021. [Code](https://github.com/manel1874/OTKeys)
+- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY)
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 
