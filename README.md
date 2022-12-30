@@ -37,7 +37,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 ### 💻 Coding projects
 
-- [Quantum private phylogenetic analysis](https://github.com/manel1874/private-phylogenetic-analysis): an application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. [Demo](https://youtu.be/gPAPgZYbd8E). [Presentation](https://youtu.be/k_W8_pxNQm8)
+- [Quantum private phylogenetic analysis](https://github.com/manel1874/private-phylogenetic-analysis): an application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. [Demo](https://youtu.be/gPAPgZYbd8E). [Presentation](https://youtu.be/k_W8_pxNQm8).
 - [OTKeys](https://github.com/manel1874/OTKeys): an implementation of a string oblivious transfer based on oblivious keys and random oblivious transfer keys.
 - [QSHY](https://github.com/manel1874/QSHY): QSHY stands for Quantum Semi Honest Yao and it implements a semi-honest Yao protocol assisted with quantum oblivious keys.
 - [Threshold wallet](https://github.com/manel1874/threshold-wallet): a simple prototype of an Ethereum crypto wallet that uses ZenGo-X implementation of {t,n}-Threshold ECDSA based on the GG20 algorithm. [Demo](https://youtu.be/_1OWxtxJ8ZY).
