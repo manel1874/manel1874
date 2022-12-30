@@ -34,6 +34,16 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 
+
+### 💻 Coding projects
+
+- [Quantum private phylogenetic analysis](https://github.com/manel1874/private-phylogenetic-analysis): an application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. [Demo](https://youtu.be/gPAPgZYbd8E). [Presentation](https://youtu.be/k_W8_pxNQm8)
+- [OTKeys](https://github.com/manel1874/OTKeys): an implementation of a string oblivious transfer based on oblivious keys and random oblivious transfer keys.
+- [QSHY](https://github.com/manel1874/QSHY): QSHY stands for Quantum Semi Honest Yao and it implements a semi-honest Yao protocol assisted with quantum oblivious keys.
+- [Threshold wallet](https://github.com/manel1874/threshold-wallet): a simple prototype of an Ethereum crypto wallet that uses ZenGo-X implementation of {t,n}-Threshold ECDSA based on the GG20 algorithm. [Demo](https://youtu.be/_1OWxtxJ8ZY).
+- [DDHOT](https://github.com/manel1874/DDHOT): an implementation of UC-secure Oblivous Transfer under DDH assumption based on the PVW construction. [Demo](https://youtu.be/-AY9qeqqhjc).
+
+
 ### 🗞️ Blog posts
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
 
@@ -55,15 +65,17 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=3572A5)
 
-
-![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
-
 ![](https://img.shields.io/badge/Code-C-00599C?style=flat&logo=c&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=shell&logoColor=white&color=3572A5)
+
+![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/Typesetting-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=3572A5)
+
+![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
+![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
 
 ![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=3572A5)
@@ -79,9 +91,6 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 ![](https://img.shields.io/badge/Tool-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=3572A5)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=3572A5)
-
-![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Typesetting-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=3572A5)
 <br />
 <br />
 
