@@ -41,7 +41,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [OTKeys](https://github.com/manel1874/OTKeys): an implementation of a string oblivious transfer based on oblivious keys and random oblivious transfer keys.
 - [QSHY](https://github.com/manel1874/QSHY): QSHY stands for Quantum Semi Honest Yao and it implements a semi-honest Yao protocol assisted with quantum oblivious keys.
 - [Threshold wallet](https://github.com/manel1874/threshold-wallet): a simple prototype of an Ethereum crypto wallet that uses ZenGo-X implementation of {t,n}-Threshold ECDSA based on the GG20 algorithm. [Demo](https://youtu.be/_1OWxtxJ8ZY).
-- [DDHOT](https://github.com/manel1874/DDHOT): an implementation of UC-secure Oblivous Transfer under DDH assumption based on the PVW construction. [Demo](https://youtu.be/-AY9qeqqhjc).
+- [DDHOT](https://github.com/manel1874/DDHOT): an implementation of UC-secure Oblivous Transfer under DDH assumption based on the PVW framework. [Demo](https://youtu.be/-AY9qeqqhjc).
 
 
 ### 🗞️ Blog posts
