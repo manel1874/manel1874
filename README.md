@@ -9,13 +9,13 @@
 
 I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD student at the [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.
 
-- 🔭 I’m currently working on the applications of **quantum cryptographic protocols to Secure Multiparty Computation**.
+- 🔭 I’m currently working on the applications of **Quantum Cryptographic protocols to Secure Multiparty Computation**.
 
 ### 🤓 Projects 
 
 #### Running
 
-- [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us)
+- [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us).
 - [QUESTS](http://quests.av.it.pt/): is focused on the development of a Secure Multiparty Computation service for vehicular ad hoc networks (VANETs).
 
 #### Closed
@@ -25,12 +25,12 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
 ### 🎓 Research articles 
-- [PECO: methods to enhance the privacy of DECO protocol](https://github.com/manel1874/PECO/blob/main/paper/PECO.pdf), 2022
-- [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022
+- [PECO: methods to enhance the privacy of DECO protocol](https://github.com/manel1874/PECO/blob/main/paper/PECO.pdf), 2022.
+- [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/).
-- [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022. [Code](https://github.com/manel1874/private-phylogenetic-analysis)
-- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021. [Code](https://github.com/manel1874/OTKeys)
-- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY)
+- [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022. [Code](https://github.com/manel1874/private-phylogenetic-analysis).
+- [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021. [Code](https://github.com/manel1874/OTKeys).
+- [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY).
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 
@@ -45,19 +45,19 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 
 ### 🗞️ Blog posts
-- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
+- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09).
 
 
 ### 📺 YouTube videos 
-- [QOLE poster presentation at QCrypt2022](https://www.youtube.com/watch?v=yQliNZnRgpU&t=2s)
-- [QuGenome App demo](https://youtu.be/gPAPgZYbd8E)
-- [QuGenome System description](https://youtu.be/k_W8_pxNQm8)
-- [Genome Search implementation with Yao Protocol](https://youtu.be/-AYUiQtT6fs)
+- [QOLE poster presentation at QCrypt2022](https://www.youtube.com/watch?v=yQliNZnRgpU&t=2s).
+- [QuGenome App demo](https://youtu.be/gPAPgZYbd8E).
+- [QuGenome System description](https://youtu.be/k_W8_pxNQm8).
+- [Genome Search implementation with Yao Protocol](https://youtu.be/-AYUiQtT6fs).
 
 ### 🎤 My choir recordings
-- [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0)
-- [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8)
-- Check out our channel [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ)
+- [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0).
+- [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8).
+- Check out our channel, [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ).
 
 
 ### 🛠 Tools & Languages:
