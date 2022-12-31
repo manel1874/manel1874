@@ -25,7 +25,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
 ### 🎓 Research articles 
-- [PECO: methods to enhance the privacy of DECO protocol](https://github.com/manel1874/PECO/blob/main/paper/PECO.pdf), 2022.
+- [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774), Cryptology ePrint Archive, 2022.
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022. [Code](https://github.com/manel1874/private-phylogenetic-analysis).
