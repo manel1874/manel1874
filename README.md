@@ -37,6 +37,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 ### 💻 Coding projects
 
+- [QMP-SPDZ](https://github.com/manel1874/QMP-SPDZ): a fork from [MP-SPDZ](https://github.com/data61/MP-SPDZ) that includes modifications to support quantum-proof MPC protocols.
 - [Quantum private phylogenetic analysis](https://github.com/manel1874/private-phylogenetic-analysis): an application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. [Demo](https://youtu.be/gPAPgZYbd8E). [Presentation](https://youtu.be/k_W8_pxNQm8). [Paper](https://ieeexplore.ieee.org/document/9732453).
 - [OTKeys](https://github.com/manel1874/OTKeys): an implementation of a string oblivious transfer based on oblivious keys and random oblivious transfer keys.
 - [QSHY](https://github.com/manel1874/QSHY): QSHY stands for Quantum Semi Honest Yao and it implements a semi-honest Yao protocol assisted with quantum oblivious keys.
