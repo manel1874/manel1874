@@ -33,10 +33,12 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY).
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
+- [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
 
 ### 💻 Coding projects
 
+- [verifiable-private-database-query](https://github.com/manel1874/verifiable-private-database-query)
 - [QMP-SPDZ](https://github.com/manel1874/QMP-SPDZ): a fork from [MP-SPDZ](https://github.com/data61/MP-SPDZ) that includes modifications to support quantum-proof MPC protocols.
 - [Quantum private phylogenetic analysis](https://github.com/manel1874/private-phylogenetic-analysis): an application that securely computes phylogenetic trees based on the PHYLIP package, secure multiparty computation and quantum technologies. [Demo](https://youtu.be/gPAPgZYbd8E). [Presentation](https://youtu.be/k_W8_pxNQm8). [Paper](https://ieeexplore.ieee.org/document/9732453).
 - [OTKeys](https://github.com/manel1874/OTKeys): an implementation of a string oblivious transfer based on oblivious keys and random oblivious transfer keys.
@@ -46,6 +48,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 
 ### 🗞️ Blog posts
+- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09).
 
 
