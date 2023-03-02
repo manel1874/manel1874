@@ -35,6 +35,11 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 - [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
+#### Under developlment
+
+- Noise-resistant Quantum Oblivious Linear Evaluation. [Code](https://github.com/manel1874/noisy-qole).
+- Verifiable Private Database Query based on Quantum Technologies. [Code](https://github.com/manel1874/verifiable-private-database-query).
+
 
 ### 💻 Coding projects
 
