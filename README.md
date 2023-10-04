@@ -25,6 +25,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
 ### 🎓 Research articles 
+- [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
 - [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774), Cryptology ePrint Archive, 2022.
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
