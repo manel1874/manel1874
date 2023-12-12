@@ -38,12 +38,14 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 #### Under developlment
 
+- [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf)
 - Noise-resistant Quantum Oblivious Linear Evaluation. [Code](https://github.com/manel1874/noisy-qole).
 - Verifiable Private Database Query based on Quantum Technologies. [Code](https://github.com/manel1874/verifiable-private-database-query).
 
 
 ### 💻 Coding projects
 
+- [Threshold ECDSA](https://github.com/nillion-oss/tinysig): Python implementation of the protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) paper
 - [zkp-ecdsa-rs](https://github.com/manel1874/zkp-ecdsa-rs) (work in progress): Rust implementation of the [zk-ecdsa](https://github.com/cloudflare/zkp-ecdsa) protocol.
 - [Verifiable private database query](https://github.com/manel1874/verifiable-private-database-query) (work in progress): an application based on the MP-SPDZ framework.
 - [QMP-SPDZ](https://github.com/manel1874/QMP-SPDZ): a fork from [MP-SPDZ](https://github.com/data61/MP-SPDZ) that includes modifications to support quantum-proof MPC protocols.
