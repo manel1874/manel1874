@@ -7,9 +7,9 @@
 -->
 
 
-I'm a husband, father of two, (amateur) tenor singer and a Cryptography Engineer @Nillion.
+I'm a husband, father of two, (amateur) tenor singer and a Cryptography Engineer [@Nillion](https://nillion.com/).
 
-- 🔭 I’m currently doing applied research cryptography in MPC and developing Nada MPC programming language.
+- 🔭 I'm currently doing applied research in cryptography, focusing on MPC, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
 
 ### 🤓 PhD Projects 
 
