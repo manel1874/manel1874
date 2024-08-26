@@ -25,6 +25,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
 ### 🎓 Research articles 
+- [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127, CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
 - [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
 - [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774), Cryptology ePrint Archive, 2022.
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
@@ -38,14 +39,17 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 #### Under developlment
 
-- [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf)
 - Noise-resistant Quantum Oblivious Linear Evaluation. [Code](https://github.com/manel1874/noisy-qole).
 - Verifiable Private Database Query based on Quantum Technologies. [Code](https://github.com/manel1874/verifiable-private-database-query).
 
+### Technical reports
+- [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
+- [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
 ### 💻 Coding projects
 
-- [Threshold ECDSA](https://github.com/nillion-oss/tinysig): Python implementation of the protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) paper
+- [Curl](https://github.com/jimouris/curl): Extension of CrypTen with discrete wavelet transform tehcnique.
+- [Threshold ECDSA](https://github.com/nillion-oss/tinysig): Python implementation of the protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) paper.
 - [zkp-ecdsa-rs](https://github.com/manel1874/zkp-ecdsa-rs) (work in progress): Rust implementation of the [zk-ecdsa](https://github.com/cloudflare/zkp-ecdsa) protocol.
 - [Verifiable private database query](https://github.com/manel1874/verifiable-private-database-query) (work in progress): an application based on the MP-SPDZ framework.
 - [QMP-SPDZ](https://github.com/manel1874/QMP-SPDZ): a fork from [MP-SPDZ](https://github.com/data61/MP-SPDZ) that includes modifications to support quantum-proof MPC protocols.
@@ -57,6 +61,7 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 
 
 ### 🗞️ Blog posts
+- [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
 - [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md).
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09).
 
