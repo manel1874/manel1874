@@ -19,8 +19,8 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography Engineer
 - [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a quantum oblivious transfer protocol over optical fibres and integration with a privacy preserving genome data mining service.
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
 
-### 🎓 Research articles 
-- [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127, CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
+### 🎓 Research articles
+- [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127), CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
 - [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
 - [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774), Cryptology ePrint Archive, 2022.
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
