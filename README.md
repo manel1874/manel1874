@@ -7,19 +7,14 @@
 -->
 
 
-I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD student at the [University of Lisbon, IST](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf), Portugal.
+I'm a husband, father of two, (amateur) tenor singer and a Cryptography Engineer @Nillion.
 
-- 🔭 I’m currently working on the applications of **Quantum Cryptographic protocols to Secure Multiparty Computation**.
+- 🔭 I’m currently doing applied research cryptography in MPC and developing Nada MPC programming language.
 
-### 🤓 Projects 
-
-#### Running
+### 🤓 PhD Projects 
 
 - [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us).
 - [QUESTS](http://quests.av.it.pt/): is focused on the development of a Secure Multiparty Computation service for vehicular ad hoc networks (VANETs).
-
-#### Closed
-
 - [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a Secure Multiparty Computation service supported by quantum technologies to compute phylogenetic trees over the Madrid OpenQKD network. Check the App demo [here](https://youtu.be/gPAPgZYbd8E).
 - [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a quantum oblivious transfer protocol over optical fibres and integration with a privacy preserving genome data mining service.
 - [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
@@ -76,42 +71,6 @@ I'm a husband, father of two, (amateur) tenor singer and a Cryptography PhD stud
 - [Veni Sancte Spiritus - George Fenton](https://www.youtube.com/watch?v=P0_LxWxwWE0).
 - [God so loved the world - Bob Chilcott](https://www.youtube.com/watch?v=xoX-PLEjQt8).
 - Check out our channel, [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ).
-
-
-### 🛠 Tools & Languages:
-
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white&color=3572A5)
-
-![](https://img.shields.io/badge/Code-C-00599C?style=flat&logo=c&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=shell&logoColor=white&color=3572A5)
-
-![](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Typesetting-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=3572A5)
-
-![](https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=3572A5)
-
-![](https://img.shields.io/badge/Tool-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Flask-informational?style=flat&logo=flask&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=postman&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=3572A5)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=3572A5)
-<br />
-<br />
-
 
 ### Connect with me
 [<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
