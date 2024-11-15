@@ -11,20 +11,12 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 
 - 🔭 I'm currently doing applied research in cryptography, focusing on MPC, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
 
-### 🤓 PhD Projects 
-
-- [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us).
-- [QUESTS](http://quests.av.it.pt/): is focused on the development of a Secure Multiparty Computation service for vehicular ad hoc networks (VANETs).
-- [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a Secure Multiparty Computation service supported by quantum technologies to compute phylogenetic trees over the Madrid OpenQKD network. Check the App demo [here](https://youtu.be/gPAPgZYbd8E).
-- [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a quantum oblivious transfer protocol over optical fibres and integration with a privacy preserving genome data mining service.
-- [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
-
 ### 🎓 Research articles
+- [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127), CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
 - [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
 - [PECO: methods to enhance the privacy of DECO protocol](https://eprint.iacr.org/2022/1774), Cryptology ePrint Archive, 2022.
 - [Quantum oblivious transfer: a short review](https://www.mdpi.com/1099-4300/24/7/945), Entropy, 2022.
-- [Quantum Universally Composable Oblivious Linear Evaluation](https://arxiv.org/pdf/2204.14171.pdf), arxiv, 2022. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Private Computation of Phylogenetic Trees based on Quantum Technologies](https://ieeexplore.ieee.org/document/9732453), IEEE Access, 2022. [Code](https://github.com/manel1874/private-phylogenetic-analysis).
 - [Quantum and classical oblivious transfer: A comparative analysis](https://doi.org/10.1049/qtc2.12010), IET Quantum Communications, 2021. [Code](https://github.com/manel1874/OTKeys).
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY).
@@ -41,6 +33,14 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
 - [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
+### 🤓 PhD Projects 
+
+- [QuantaGenomics](https://quantagenomics.av.it.pt/): is focused on the development of a quantum-enabled Secure Multiparty Computation service for collaborative genomic medicine. Promotion video on [YouTube](https://www.youtube.com/watch?v=Vtl3oe_w0us).
+- [QUESTS](http://quests.av.it.pt/): is focused on the development of a Secure Multiparty Computation service for vehicular ad hoc networks (VANETs).
+- [QuGenome](http://qugenome.av.it.pt/): is focused on the implementation of a Secure Multiparty Computation service supported by quantum technologies to compute phylogenetic trees over the Madrid OpenQKD network. Check the App demo [here](https://youtu.be/gPAPgZYbd8E).
+- [QuantumMining](http://quantummining.av.it.pt/): is focused on the design and implementation of a quantum oblivious transfer protocol over optical fibres and integration with a privacy preserving genome data mining service.
+- [Q.DOT](http://qdot.av.it.pt/): implementation of Secure Multiparty Computation for vehicular networks, specifically to calculate the average speed of vehicles in highways.
+
 ### 💻 Coding projects
 
 - [Curl](https://github.com/jimouris/curl): Extension of CrypTen with discrete wavelet transform tehcnique.
@@ -56,9 +56,11 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 
 
 ### 🗞️ Blog posts
+- [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
+- [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
 - [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
-- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md).
-- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09).
+- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
+- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
 
 
 ### 📺 YouTube videos 
