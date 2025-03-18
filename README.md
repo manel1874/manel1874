@@ -56,6 +56,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 
 
 ### 🗞️ Blog posts
+- [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
 - [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
 - [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
 - [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
