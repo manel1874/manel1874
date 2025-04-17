@@ -12,6 +12,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - 🔭 I'm currently doing applied research in cryptography, focusing on MPC, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
 
 ### 🎓 Research articles
+- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653),Cyptology ePrint Archive, 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127), CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
 - [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
@@ -24,10 +25,16 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 - [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
-#### Under developlment
-
-- Noise-resistant Quantum Oblivious Linear Evaluation. [Code](https://github.com/manel1874/noisy-qole).
-- Verifiable Private Database Query based on Quantum Technologies. [Code](https://github.com/manel1874/verifiable-private-database-query).
+### 🗞️ Blog posts
+- [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/)
+- [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/)
+- [Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/)
+- [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
+- [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
+- [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
+- [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
+- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
+- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
 
 ### Technical reports
 - [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
@@ -53,16 +60,6 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [QSHY](https://github.com/manel1874/QSHY): QSHY stands for Quantum Semi Honest Yao and it implements a semi-honest Yao protocol assisted with quantum oblivious keys.
 - [Threshold wallet](https://github.com/manel1874/threshold-wallet): a simple prototype of an Ethereum crypto wallet that uses ZenGo-X implementation of {t,n}-Threshold ECDSA based on the GG20 algorithm. [Demo](https://youtu.be/_1OWxtxJ8ZY).
 - [DDHOT](https://github.com/manel1874/DDHOT): an implementation of UC-secure Oblivous Transfer under DDH assumption based on the PVW framework. [Demo](https://youtu.be/-AY9qeqqhjc).
-
-
-### 🗞️ Blog posts
-- [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
-- [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
-- [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
-- [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
-- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
-- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
-
 
 ### 📺 YouTube videos 
 - [QOLE poster presentation at QCrypt2022](https://www.youtube.com/watch?v=yQliNZnRgpU&t=2s).
