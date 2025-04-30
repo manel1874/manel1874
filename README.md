@@ -12,7 +12,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - 🔭 I'm currently doing applied research in cryptography, focusing on MPC, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
 
 ### 🎓 Research articles
-- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653),Cyptology ePrint Archive, 2025.
+- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Cyptology ePrint Archive, 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127), CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
 - [Oblivious Keys for Secure Multiparty Computation Obtained from a CV-QKD](https://ieeexplore.ieee.org/abstract/document/10207521), ICTON 2023
@@ -26,6 +26,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
 ### 🗞️ Blog posts
+- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/)
 - [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/)
 - [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/)
 - [Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/)
