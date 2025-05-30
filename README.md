@@ -51,6 +51,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 
 ### 💻 Coding projects
 
+- [Blind Lawyer](https://github.com/manel1874/blindlawyer): Web app to analyze legal documents with privacy. 
 - [Curl](https://github.com/jimouris/curl): Extension of CrypTen with discrete wavelet transform tehcnique.
 - [Threshold ECDSA](https://github.com/nillion-oss/tinysig): Python implementation of the protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) paper.
 - [zkp-ecdsa-rs](https://github.com/manel1874/zkp-ecdsa-rs) (work in progress): Rust implementation of the [zk-ecdsa](https://github.com/cloudflare/zkp-ecdsa) protocol.
