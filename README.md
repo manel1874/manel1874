@@ -31,6 +31,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/)
 - [Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/)
 - [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
+- [Improving threshold ECDSA and its applications to AI agents](https://nillion.com/news/improving-threshold-ecdsa-and-its-applications-to-ai-agents/)
 - [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
 - [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
 - [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
