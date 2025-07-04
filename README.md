@@ -25,7 +25,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
 
 #### Theses:
-- PhD: [Quantum Assisted Secure Multiparty Computation]([https://arxiv.org/abs/2205.01227](https://github.com/manel1874/PhD-thesis/blob/main/Manuel_final_submission/Final_PhD_Manuel.pdf))
+- PhD: [Quantum Assisted Secure Multiparty Computation](https://github.com/manel1874/PhD-thesis/blob/main/Manuel_final_submission/Final_PhD_Manuel.pdf)
 - MSc: [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
 ### 🗞️ Blog posts
