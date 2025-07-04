@@ -9,7 +9,7 @@
 
 I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engineer [@Nillion](https://nillion.com/).
 
-- 🔭 I'm currently doing applied research in cryptography, focusing on MPC, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
+- 🔭 I'm currently doing applied research in cryptography, focusing on MPC and zkTLS, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
 
 ### 🎓 Research articles
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Cyptology ePrint Archive, 2025.
@@ -23,7 +23,10 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Quantum Secure Multiparty Computation of Phylogenetic Trees of SARS-CoV-2 Genomes](https://ieeexplore.ieee.org/document/9435479), ConfTELE, 2021. [Code](https://github.com/manel1874/QSHY).
 - [Quantum Enabled Private Recognition of Composite Signals in Genome and Proteins](https://ieeexplore.ieee.org/document/9203042), ICTON, 2020.
 - [A random cocycle with non Hölder Lyapunov exponent](https://www.aimsciences.org/article/doi/10.3934/dcds.2019197), Discrete & Continuous Dynamical Systems - A, 2019.
-- [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
+
+#### Theses:
+- PhD: [Quantum Assisted Secure Multiparty Computation]([https://arxiv.org/abs/2205.01227](https://github.com/manel1874/PhD-thesis/blob/main/Manuel_final_submission/Final_PhD_Manuel.pdf))
+- MSc: [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 
 ### 🗞️ Blog posts
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/)
