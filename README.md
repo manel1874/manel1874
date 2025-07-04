@@ -9,7 +9,7 @@
 
 I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engineer [@Nillion](https://nillion.com/).
 
-- 🔭 I'm currently doing applied research in cryptography, focusing on MPC and zkTLS, while also developing the [Nada](https://docs.nillion.com/nada-lang) MPC programming language.
+- 🔭 I'm currently doing applied research in cryptography, focusing on MPC and zkTLS, while also developing the [Nada]([https://docs.nillion.com/nada-lang](https://github.com/NillionNetwork/nada-dsl)) MPC programming language.
 
 ### 🎓 Research articles
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Cyptology ePrint Archive, 2025.
