@@ -33,7 +33,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
 - [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
-### 🗞️ Blog posts
+### 🗞️ Blogposts
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/)
 - [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/)
 - [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/)
@@ -58,7 +58,7 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 
 - [Blind Lawyer](https://github.com/manel1874/blindlawyer): Web app to analyze legal documents with privacy. 
 - [Curl](https://github.com/jimouris/curl): Extension of CrypTen with discrete wavelet transform tehcnique.
-- [Threshold ECDSA](https://github.com/nillion-oss/tinysig): Python implementation of the protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) paper.
+- [Tinysig](https://github.com/nillion-oss/tinysig): Python implementation of the threshold ECDSA protocol described in [this](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf) report.
 - [zkp-ecdsa-rs](https://github.com/manel1874/zkp-ecdsa-rs) (work in progress): Rust implementation of the [zk-ecdsa](https://github.com/cloudflare/zkp-ecdsa) protocol.
 - [Verifiable private database query](https://github.com/manel1874/verifiable-private-database-query) (work in progress): an application based on the MP-SPDZ framework.
 - [QMP-SPDZ](https://github.com/manel1874/QMP-SPDZ): a fork from [MP-SPDZ](https://github.com/data61/MP-SPDZ) that includes modifications to support quantum-proof MPC protocols.
@@ -80,9 +80,10 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - Check out our channel, [Canticorum](https://www.youtube.com/channel/UCDJZxOnzuPSORAgRoAHc4RQ).
 
 ### Connect with me
-[<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manuel-santos-66b411102/)
+[<img align="left" alt="manel1874 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/manel1874)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />](https://medium.com/@manuel.batalha.santos)
 [<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/channel/UCd3JdDjcW0vgHNdFVehQN_w)
+[<img align="left" alt="manel1874 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/x.svg" />](https://x.com/manel1874)
 
 
 ![](https://komarev.com/ghpvc/?username=manel1874&color=3572A5)
