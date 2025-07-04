@@ -29,6 +29,10 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - MSc: [Topological Band Systems and Finite Size Effects](https://arxiv.org/abs/2205.01227), arxiv, 2022.
 - BSc: [Classification of the Homogeneous Cosmological Models](https://www.math.tecnico.ulisboa.pt/~jnatar/alunos/Manuel.pdf).
 
+#### Technical reports
+- [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
+- [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
+
 ### 🗞️ Blog posts
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/)
 - [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/)
@@ -41,10 +45,6 @@ I'm a husband, father of three, (amateur) tenor singer and a Cryptography Engine
 - [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
 - [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
 - [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
-
-### Technical reports
-- [Technical Report on Threshold ECDSA in the Preprocessing Setup](https://nillion.pub/threshold-ecdsa-preprocessing-setup.pdf), Nillion, 2023
-- [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
 ### 🤓 PhD Projects 
 
