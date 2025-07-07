@@ -92,4 +92,6 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Engin
 ![](https://komarev.com/ghpvc/?username=manel1874&color=3572A5)
 
 
+<!--
 [![](https://github-readme-stats.vercel.app/api?username=manel1874&count_private=true&show_icons=true&theme=onedark)](https://github.com/manel1874)
+-->
