@@ -16,7 +16,7 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Engin
 
 ### 📝  Research articles
 
-- 🚧🛠️ [WIP]: "TLShare: Private Authenticated MPC and FHE Inputs Over TLS"
+🚧🛠️ [WIP]: "TLShare: Private Authenticated MPC and FHE Inputs Over TLS"
 
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Accepted to IEEE Conference on Communications and Network Security (CNS) 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
