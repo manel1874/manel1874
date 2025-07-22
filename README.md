@@ -15,6 +15,9 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Engin
 - 🧪 Previously, I was a Quantum Cryptography Researcher at [Tekever](https://www.tekever.com/), where I led the technical design and execution of research proposals at the intersection of Secure Multiparty Computation and Quantum Communication. I was also responsible for establishing R&D partnerships with institutions such as Thales, Imperial College London, and Fraunhofer HHI.
 
 ### 📝  Research articles
+
+- 🚧🛠️ [WIP]: "TLShare: Private Authenticated MPC and FHE Inputs Over TLS"
+
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Accepted to IEEE Conference on Communications and Network Security (CNS) 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
 - [Curl: Private LLMs through Wavelet-Encoded Look-Up Tables](https://eprint.iacr.org/2024/1127), CAMLIS, 2024. [Code](https://github.com/jimouris/curl)
