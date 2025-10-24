@@ -14,7 +14,7 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Resea
 
 - 🔭 Previously, I was doing applied research in cryptography at [Nillion](https://nillion.com/), focusing on MPC and zkTLS, and developing [Nada](https://github.com/NillionNetwork/nada-dsl), a programming language for Secure Multiparty Computation.
 
-- 🧪 I have been a Quantum Cryptography Researcher at [Tekever](https://www.tekever.com/), where I led the technical design and execution of research proposals at the intersection of Secure Multiparty Computation and Quantum Communication. I was also responsible for establishing R&D partnerships with institutions such as Thales, Imperial College London, and Fraunhofer HHI.
+- 🧪 I was previously a Quantum Cryptography Researcher at [Tekever](https://www.tekever.com/), where I led the technical design and execution of research proposals at the intersection of Secure Multiparty Computation and Quantum Communication. I was also responsible for establishing R&D partnerships with institutions such as Thales, Imperial College London, and Fraunhofer HHI.
 
 ### 📝  Research articles
 
