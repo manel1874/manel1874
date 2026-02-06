@@ -41,19 +41,20 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Resea
 - [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
 ### 🗞️ Blogposts
-- [TLShare: Private Authenticated MPC Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-17dc71c33011)
-- [TLShare: Private Authenticated FHE Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-96e426968cd9)
-- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/)
-- [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/)
-- [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/)
-- [Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/)
-- [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
-- [Improving threshold ECDSA and its applications to AI agents](https://nillion.com/news/improving-threshold-ecdsa-and-its-applications-to-ai-agents/)
-- [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/)
-- [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/)
-- [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md)
-- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md)
-- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09)
+- [Hybrid Hierarchical Deterministic Wallets](https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets), Tectonic Blog, 2026
+- [TLShare: Private Authenticated MPC Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-17dc71c33011), Nillion Blog, 2025
+- [TLShare: Private Authenticated FHE Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-96e426968cd9), Nillion Blog, 2025
+- [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://nillion.com/news/fission-distributed-privacy-preserving-large-language-model-inference/), Nillion Blog, 2025
+- [Evolving zkTLS: Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-privacy-preserving-computation-from-decentralized-oracles/), Nillion Blog, 2025
+- [Evolving zkTLS: Part 2 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-2-of-privacy-preserving-computation-from-decentralized-oracles/), Nillion Blog, 2025
+- [Evolving zkTLS: Part 3 of Privacy-Preserving Computation from Decentralized Oracles](https://nillion.com/news/evolving-zktls-part-3-of-privacy-preserving-computation-from-decentralized-oracles/), Nillion Blog, 2025
+- [Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/), Nillion Blog, 2025
+- [Improving threshold ECDSA and its applications to AI agents](https://nillion.com/news/improving-threshold-ecdsa-and-its-applications-to-ai-agents/), Nillion Blog, 2025
+- [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/1342/), Nillion Blog, 2024
+- [A New Wave of Privacy-Preserving Large Language Models](https://nillion.com/news/1175/), Nillion Blog, 2024
+- [Voting tutorial in Nada](https://github.com/NillionNetwork/python-examples/blob/main/examples_and_tutorials/voting_tutorial/tutorial.md), Nillion Github, 2024
+- [Verifiable private database query in MP-SPDZ](https://github.com/manel1874/verifiable-private-database-query/blob/main/tutorial.md), 2023
+- [Privacy-Preserving Computational Biology using Yao protocol](https://medium.com/@manuel.batalha.santos/privacy-preserving-computational-biology-using-yao-protocol-dbbc2d61bd09), Medium, 2022
 
 ### 🤓 PhD Projects 
 
