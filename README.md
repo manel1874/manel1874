@@ -41,7 +41,7 @@ I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Resea
 - [Technical Report on Secure Truncation with Applications to LLM Quantization](https://nillion.pub/secure-truncation-llm-quantization.pdf), Nillion, 2023
 
 ### 🗞️ Blogposts
-- [Exploring Signature-Free Post-Quantum RLPx Handshake](https://ethresear.ch/t/exploring-signature-free-post-quantum-rlpx-handshake/24413), Ethresearch, 2026
+- [Exploring Signature-Free Post-Quantum RLPx Handshake](https://ethresear.ch/t/exploring-signature-free-post-quantum-rlpx-handshake/24413), Ethereum Research, 2026
 - [Hybrid Hierarchical Deterministic Wallets](https://www.tectonic.xyz/blog/hybrid-hierarchical-deterministic-wallets), Tectonic Blog, 2026
 - [TLShare: Private Authenticated MPC Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-17dc71c33011), Nillion Blog, 2025
 - [TLShare: Private Authenticated FHE Inputs Over TLS](https://medium.com/@jimouris/tlshare-private-authenticated-mpc-and-fhe-inputs-over-tls-96e426968cd9), Nillion Blog, 2025
