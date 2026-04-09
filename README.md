@@ -6,7 +6,7 @@
 <a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
 -->
 
-I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Researcher at [Quantum](https://quantum.systems/).
+I'm a husband, father of three, (amateur) tenor singer, and the Lead Cryptography Researcher at [MultiVM Labs](https://www.multivmlabs.com/).
 
 - 🪐 I’m currently doing applied research in post-quantum cryptography, focusing on its integration into web3 services and threshold signatures.
 
