@@ -6,19 +6,19 @@
 <a href="https://github.com/manel1874/stargazers"><img src="https://img.shields.io/github/stars/manel1874" alt="Stars Badge"/></a>
 -->
 
-I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Research Engineer at [Tectonic](https://tectonic.xyz/).
+I'm a husband, father of three, (amateur) tenor singer, and a Cryptography Researcher at [Quantum](https://quantum.systems/).
 
 - 🪐 I’m currently doing applied research in post-quantum cryptography, focusing on its integration into web3 services and threshold signatures.
 
 - 🎓 I hold a Ph.D. in [Information Security](https://fenix.tecnico.ulisboa.pt/cursos/deaseginf/descricao) from the University of Lisbon, Técnico, under the supervision of [Dr. Paulo Mateus](https://sqig.math.ist.utl.pt/pmat/). I also earned an M.Sc. in [Applied Mathematics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/applied-mathematics/) from Imperial College London, where I studied Condensed Matter Theory under the supervision of [Dr. Ryan Barnett](https://profiles.imperial.ac.uk/r.barnett/about). I hold a B.Sc. in [Applied Mathematics and Computation](https://fenix.tecnico.ulisboa.pt/cursos/lmac/curriculo) from Técnico, University of Lisbon.
 
-- 🔭 Previously, I was doing applied research in cryptography at [Nillion](https://nillion.com/), focusing on MPC and zkTLS, and developing [Nada](https://github.com/NillionNetwork/nada-dsl), a programming language for Secure Multiparty Computation.
+- 🔭 Previously, I was doing applied research in cryptography at both [Tectonic](https://tectonic.xyz/) and [Nillion](https://nillion.com/). At Tectonic I focused on post-quantum and at Nillion I focused on MPC and zkTLS, and developing [Nada](https://github.com/NillionNetwork/nada-dsl), a programming language for Secure Multiparty Computation.
 
 - 🧪 I was previously a Quantum Cryptography Researcher at [Tekever](https://www.tekever.com/), where I led the technical design and execution of research proposals at the intersection of Secure Multiparty Computation and Quantum Communication. I was also responsible for establishing R&D partnerships with institutions such as Thales, Imperial College London, and Fraunhofer HHI.
 
 ### 📝  Research articles
 
-- Post-Quantum Blockchains with Crypto-Agility in Mind, accepted at MAgiCS (Eurocrypt workshop) 2026.
+- [Post-Quantum Blockchains with Crypto-Agility in Mind](https://eprint.iacr.org/2026/609), accepted at MAgiCS (Eurocrypt workshop) 2026.
 - [TLShare: Private Authenticated MPC and FHE Inputs Over TLS](https://eprint.iacr.org/2025/1434), Cryptology ePrint Archive, 2025.
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Accepted to IEEE Conference on Communications and Network Security (CNS) 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
