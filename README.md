@@ -18,7 +18,7 @@ I'm a husband, father of three, (amateur) tenor singer, and a Lead Cryptography 
 
 ### 📝  Research articles
 
-- [Post-Quantum Blockchains with Crypto-Agility in Mind](https://eprint.iacr.org/2026/609), accepted at MAgiCS (Eurocrypt workshop) 2026.
+- [Post-Quantum Blockchains with Crypto-Agility in Mind](https://eprint.iacr.org/2026/609), MAgiCS (Eurocrypt workshop) 2026, Communications in Computer and Information Science 2026. [ePrint](https://eprint.iacr.org/2026/609), [Springer Nature](https://link.springer.com/chapter/10.1007/978-3-032-28946-9_10) chapter, [Presentation slides](https://magics-workshop.cs.hs-rm.de/slides/Post-Quantum%20Blockchains%20with%20Agility%20in%20Mind.pdf).
 - [TLShare: Private Authenticated MPC and FHE Inputs Over TLS](https://eprint.iacr.org/2025/1434), Cryptology ePrint Archive, 2025.
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Accepted to IEEE Conference on Communications and Network Security (CNS) 2025.
 - [Quantum Universally Composable Oblivious Linear Evaluation](https://quantum-journal.org/papers/q-2024-10-23-1507/), Quantum, 2024. Poster presented at [Qcrypt2022](https://2022.qcrypt.net/sessions/poster2/). [Presentation](https://www.youtube.com/watch?v=yQliNZnRgpU).
