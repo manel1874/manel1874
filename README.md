@@ -18,6 +18,7 @@ I'm a husband, father of three, (amateur) tenor singer, and a Lead Cryptography 
 
 ### 📝  Research articles
 
+- [ECDSA.Fail: Open Autoresearch for Optimizing Elliptic-Curve Point Addition in Shor’s Algorithm](https://arxiv.org/html/2609.09582), arxiv, 2026.
 - [Post-Quantum Blockchains with Crypto-Agility in Mind](https://eprint.iacr.org/2026/609), MAgiCS (Eurocrypt workshop) 2026, Communications in Computer and Information Science 2026. [ePrint](https://eprint.iacr.org/2026/609), [Springer Nature](https://link.springer.com/chapter/10.1007/978-3-032-28946-9_10) chapter, [Presentation slides](https://magics-workshop.cs.hs-rm.de/slides/Post-Quantum%20Blockchains%20with%20Agility%20in%20Mind.pdf).
 - [TLShare: Private Authenticated MPC and FHE Inputs Over TLS](https://eprint.iacr.org/2025/1434), Cryptology ePrint Archive, 2025.
 - [Fission: Distributed Privacy-Preserving Large Language Model Inference](https://eprint.iacr.org/2025/653), Accepted to IEEE Conference on Communications and Network Security (CNS) 2025.
